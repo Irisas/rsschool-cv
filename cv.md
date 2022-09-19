@@ -11,4 +11,4 @@ Soon...
 # Education
 RS School: JavaScript/Front-end
 # English
-C1 (advanced)
+C1 (advanced) 
